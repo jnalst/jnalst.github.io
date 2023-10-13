@@ -31,6 +31,9 @@
   border-radius: 0.4rem;
   position: relative;
   gap: 1rem 2rem;
+  text-decoration: none;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .empresa-ano {
